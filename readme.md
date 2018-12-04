@@ -8,5 +8,5 @@
 
 4. 欢迎扫码加入我们的公众号，日常打卡，期待大家一起变优秀，成为offer收割机！！！
 
-![gongzhonghao](https://github.com/sanxiux/Niu_Ke/blob/master/maching%20learning/img-storage/gongzhonghao.jpg?raw=true)
+![gongzhonghao](https://github.com/sanxiux/Niu_Ke/blob/master/img-storage/gongzhonghao.jpg?raw=true)
 
