@@ -1,6 +1,6 @@
 # leetcode--DailyProblem
 
-1. 为了方便刷牛客的题,，特意建立此repo，方便大家面试学习；
+1. 为了方便刷牛客的题(机器学习,java,c++,python),，特意建立此repo，方便大家面试学习；
 
 2. 每题的解题方法包括但不限于c++, java, python，欢迎大家补充；
 
